@@ -1,2 +1,2 @@
 # practica-git
-Linea diferente para causar conflicto
+Segunda linea de prueba
